@@ -1,2 +1,2 @@
 # DAV5400
-Analysis on history of water consumption in the New York City Water Supply System (Based on New York City Census population)
+This repository is used for my Fall 2021 MS Data Analytics Degree course "Analytics Programming".
